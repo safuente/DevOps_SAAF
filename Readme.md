@@ -1,8 +1,10 @@
-## Devops
-La URL para acceder a la API desplegada en AWS es:
+# Devops
+Este repositorio contiene el código de la API de Nodepop.
+La URL para acceder por HTTPS a la API desplegada en AWS es:
 www.devju.com o devju.com
 
-Mediante la IP del servidor de AWS  se accede al Curriculum Vitae:
+Mediante la  IP del servidor de AWS  se accede al Curriculum Vitae 
+cuyo código se encuentra en el repositorio https://github.com/salvarezf/CV_SAAF:
 34.201.54.201
 
 
